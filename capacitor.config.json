@@ -1,0 +1,16 @@
+{
+  "appId": "com.messapp.app",
+  "appName": "MessMeter",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "http",
+    "hostname": "localhost",
+    "cleartext": true
+  },
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": false,
+      "providers": ["google.com"]
+    }
+  }
+}

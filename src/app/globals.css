@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* This stops the phone from turning text into clickable blue links */
+.no-click {
+  pointer-events: none !important;
+  user-select: none !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Disable all automatic mobile link detection behavior */
+a[href^="mailto:"], 
+a[href^="tel:"], 
+a[href^="sms:"] {
+  color: inherit !important;
+  text-decoration: none !important;
+  pointer-events: none !important;
+  cursor: default !important;
+}
+
+/* Ensure no gray highlight boxes appear when clicking text */
+* {
+  -webkit-tap-highlight-color: transparent;
+}

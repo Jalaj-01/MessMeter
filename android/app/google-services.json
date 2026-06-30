@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321737070976",
+    "project_id": "mess-feedback-system-d94a5",
+    "storage_bucket": "mess-feedback-system-d94a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321737070976:android:039f777719df3837ea8965",
+        "android_client_info": {
+          "package_name": "com.messapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321737070976-8514um3q62pja24n021ca8m5dnk3kq41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messapp.app",
+            "certificate_hash": "d2b7d6a7f85901129a2a024ce114a42e317d4526"
+          }
+        },
+        {
+          "client_id": "321737070976-0a0tccgmjasc5jf08k7qfnfkh4lferod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXbvwrGthUIdgXSOyqlYUh-IK8EZ-X8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321737070976-0a0tccgmjasc5jf08k7qfnfkh4lferod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

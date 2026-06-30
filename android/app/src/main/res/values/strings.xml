@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mess App</string>
+    <string name="title_activity_main">Mess App</string>
+    <string name="package_name">com.messapp.app</string>
+    <string name="custom_url_scheme">com.messapp.app</string>
+    <string name="common_google_play_services_client_id">321737070976-0a0tccgmjasc5jf08k7qfnfkh4lferod.apps.googleusercontent.com</string>
+</resources>
