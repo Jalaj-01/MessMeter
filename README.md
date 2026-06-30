@@ -1,10 +1,15 @@
-# MessMeter
+# MessMeter (Progressive Web App)
 
-**MessMeter** is a modern, real-time digital mess feedback and meal attendance tracking application. Designed as a mobile-friendly progressive web application (PWA) with native Android packaging, it bridges the gap between campus diners (students/staff) and catering management to improve food quality and minimize meal wastage.
+**MessMeter** is a modern, real-time digital mess feedback and meal attendance tracking system. Built as a fully optimized **Progressive Web App (PWA)** with native Android wrapper support, it bridges the gap between campus diners (students/staff) and catering management to improve food quality and minimize meal wastage.
 
 ---
 
 ## 🚀 Features
+
+### 📱 Progressive Web App (PWA) Features
+* **Installable:** Install directly on mobile or desktop devices straight from the web browser, providing an app-like experience.
+* **Offline Access & Caching:** Works seamlessly with service workers to cache app assets and support offline capabilities.
+* **Add to Home Screen:** Custom manifest configuration for standard splash screens, branding, and standalone display.
 
 ### 👤 Student Dashboard
 * **Meal Attendance Tracking:** Quick options to mark attendance ("Eating" or "Skipping") for upcoming meals.
